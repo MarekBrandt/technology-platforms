@@ -1,0 +1,22 @@
+Task{value=1, dzielniki=[1]}
+Task{value=2, dzielniki=[1, 2]}
+Task{value=5, dzielniki=[1, 5]}
+Task{value=4, dzielniki=[1, 2, 4]}
+Task{value=2, dzielniki=[1, 2]}
+Task{value=1, dzielniki=[1]}
+Task{value=6, dzielniki=[1, 2, 3, 6]}
+Task{value=6, dzielniki=[1, 2, 3, 6]}
+Task{value=4, dzielniki=[1, 2, 4]}
+Task{value=2, dzielniki=[1, 2]}
+Task{value=12, dzielniki=[1, 2, 3, 4, 6, 12]}
+Task{value=46, dzielniki=[1, 2, 23, 46]}
+Task{value=32, dzielniki=[1, 2, 4, 8, 16, 32]}
+Task{value=34, dzielniki=[1, 2, 17, 34]}
+Task{value=32, dzielniki=[1, 2, 4, 8, 16, 32]}
+Task{value=6, dzielniki=[1, 2, 3, 6]}
+Task{value=6, dzielniki=[1, 2, 3, 6]}
+Task{value=6, dzielniki=[1, 2, 3, 6]}
+Task{value=6, dzielniki=[1, 2, 3, 6]}
+Task{value=1, dzielniki=[1]}
+Task{value=4562383, dzielniki=[1, 7, 651769, 4562383]}
+Task{value=5486431, dzielniki=[1, 1061, 5171, 5486431]}
